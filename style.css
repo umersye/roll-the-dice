@@ -1,0 +1,20 @@
+body{
+    background-image: url('dice.jpg');
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    background-color:orange;
+  }
+
+  input{
+      width: 50px;
+      border-radius: 10px;
+  }
+  button{
+      border-radius: 10px;
+  }
+}
+
+
+https://github.com/umersye/roll-the-dice.git
